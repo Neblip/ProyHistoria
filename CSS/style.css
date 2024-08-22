@@ -1,0 +1,27 @@
+*
+{
+    margin: 10px;
+}
+body
+{
+    background-color: blanchedalmond;
+}
+h1
+{
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2
+{
+    color:cadetblue;
+}
+img
+{
+    width: 300px;
+    height: 180px;
+}
+p
+{
+    color: chocolate;
+    background-color: black;
+}
